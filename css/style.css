@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #80899c;
+    color: blue;
+    margin: 0;
+}
+#countdown {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 60px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+
+}
+h1{
+    margin: 0px;
+}
+.time {
+    font-size: 20px;
+    margin: 0.5rem;
+}
+#time{
+    color: green;
+    padding-left: 10px;
+    font-size: 20px;
+}
+#date{
+    color: green;
+    padding-left: 10px;  font-size: 20px;
+}
+h4{
+    color: green;
+    font-size: 20px;
+}
+#days{
+    color: red;
+}
